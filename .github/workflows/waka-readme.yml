@@ -16,8 +16,5 @@ jobs:
           # following flags are required, only if this is not on
           # profile readme, remove the leading `#` to use them
           SHOW_TITLE: true
-          TIME_RANGE: last_30_days
-          
-          
           #GH_TOKEN: ${{ secrets.GH_TOKEN }}
           #REPOSITORY: <gh_username/gh_username>
