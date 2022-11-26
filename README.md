@@ -9,11 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 November 2022 - To: 24 November 2022
+From: 18 November 2022 - To: 25 November 2022
 
-C             13 hrs 21 mins  ██████████████████████▓░░   91.23 %
-Cuda          45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
-Other         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+C             8 hrs 40 mins   ██████████████████████░░░   87.64 %
+Cuda          45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
+Other         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
 ```
 
 <!--END_SECTION:waka-->
