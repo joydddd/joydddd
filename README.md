@@ -9,11 +9,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 November 2022 - To: 29 November 2022
+From: 23 November 2022 - To: 30 November 2022
 
-INI        3 hrs 18 mins   ███████████████░░░░░░░░░░   60.54 %
-C++        2 hrs 7 mins    █████████▓░░░░░░░░░░░░░░░   38.93 %
-Makefile   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+C++        5 hrs 54 mins   ███████████████▓░░░░░░░░░   62.59 %
+INI        3 hrs 30 mins   █████████▒░░░░░░░░░░░░░░░   37.10 %
+Makefile   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
