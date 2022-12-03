@@ -9,7 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 November 2022 - To: 01 December 2022
+From: 25 November 2022 - To: 02 December 2022
 
 C++        5 hrs 57 mins   ██████████████▓░░░░░░░░░░   58.90 %
 INI        3 hrs 30 mins   ████████▓░░░░░░░░░░░░░░░░   34.66 %
