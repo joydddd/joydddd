@@ -9,12 +9,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 December 2022 - To: 15 December 2022
+From: 09 December 2022 - To: 16 December 2022
 
-C          6 hrs 1 min     █████████████████░░░░░░░░   67.86 %
-C++        1 hr 38 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.47 %
-Python     26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
-Other      25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
+C          6 hrs 59 mins   █████████████████████░░░░   83.86 %
+Other      23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
 ```
 
 <!--END_SECTION:waka-->
