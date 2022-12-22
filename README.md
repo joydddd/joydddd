@@ -9,10 +9,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 December 2022 - To: 20 December 2022
+From: 14 December 2022 - To: 21 December 2022
 
-C          7 hrs 4 mins    ██████████████████████▒░░   88.99 %
-Other      22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
+C          3 hrs 1 min     █████████████████████▓░░░   86.61 %
+C++        13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
+Cuda       10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
+Markdown   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
