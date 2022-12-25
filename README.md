@@ -9,12 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 December 2022 - To: 23 December 2022
-
-C++        13 mins         ███████████████▓░░░░░░░░░   62.76 %
-C          4 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.18 %
-Markdown   2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.61 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
