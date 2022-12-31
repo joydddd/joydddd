@@ -9,7 +9,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 23 December 2022 - To: 30 December 2022
+
+C          0 secs          █████████████████████▒░░░   85.74 %
+Markdown   0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.26 %
 ```
 
 <!--END_SECTION:waka-->
