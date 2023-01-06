@@ -9,11 +9,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 December 2022 - To: 04 January 2023
+From: 29 December 2022 - To: 05 January 2023
 
-C          2 mins          ██████████████████████▒░░   88.75 %
-Cuda       0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
-Markdown   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+C          49 mins         ██████████████████████▒░░   88.83 %
+Cuda       5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 %
+JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
