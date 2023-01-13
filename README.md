@@ -9,11 +9,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 January 2023 - To: 11 January 2023
+From: 05 January 2023 - To: 12 January 2023
 
-C      1 hr 1 min      ██████████████████████▓░░   91.27 %
-Cuda   5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 %
-JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+C   14 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
