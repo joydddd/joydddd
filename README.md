@@ -9,9 +9,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 January 2023 - To: 12 January 2023
+From: 06 January 2023 - To: 13 January 2023
 
-C   14 mins         █████████████████████████   100.00 %
+C          4 hrs 12 mins   ██████████████████████▓░░   90.63 %
+Makefile   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+Cuda       12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
+JSON       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
