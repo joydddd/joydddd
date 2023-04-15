@@ -9,9 +9,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 April 2023 - To: 13 April 2023
+From: 07 April 2023 - To: 14 April 2023
 
-Other        1 hr 27 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.71 %
+Bash         1 hr 17 mins    ███████░░░░░░░░░░░░░░░░░░   27.64 %
+Other        1 hr 12 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.92 %
 ```
 
 <!--END_SECTION:waka-->
