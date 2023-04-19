@@ -9,10 +9,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 April 2023 - To: 17 April 2023
+From: 11 April 2023 - To: 18 April 2023
 
-Bash         4 hrs 16 mins   ████████░░░░░░░░░░░░░░░░░   31.42 %
-Other        2 hrs 33 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.76 %
+Bash         4 hrs 35 mins   ████████▓░░░░░░░░░░░░░░░░   34.42 %
+Makefile     2 hrs 34 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.30 %
+Python       2 hrs 8 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.04 %
+Other        1 hr 50 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.86 %
 ```
 
 <!--END_SECTION:waka-->
