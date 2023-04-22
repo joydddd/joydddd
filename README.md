@@ -9,13 +9,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 April 2023 - To: 20 April 2023
+From: 14 April 2023 - To: 21 April 2023
 
-Bash         3 hrs 49 mins   ███████░░░░░░░░░░░░░░░░░░   28.11 %
-Python       2 hrs 51 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.11 %
-Markdown     1 hr 53 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.95 %
-Makefile     1 hr 40 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
-Other        1 hr 30 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 %
+Bash         3 hrs 51 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.50 %
+Python       2 hrs 51 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.95 %
+Markdown     2 hrs 39 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.55 %
+Makefile     1 hr 42 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.32 %
+Other        1 hr 31 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.09 %
 ```
 
 <!--END_SECTION:waka-->
