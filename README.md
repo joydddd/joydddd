@@ -9,12 +9,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 April 2023 - To: 04 May 2023
+From: 28 April 2023 - To: 05 May 2023
 
 Makefile     1 hr 42 mins    █████████████░░░░░░░░░░░░   51.42 %
 Bash         42 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.03 %
 C++          30 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.09 %
 Other        13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
+Markdown     9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
 ```
 
 <!--END_SECTION:waka-->
