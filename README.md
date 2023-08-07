@@ -9,7 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 July 2023 - To: 05 August 2023
+From: 30 July 2023 - To: 06 August 2023
 
 INI          3 hrs 35 mins   ███████████▒░░░░░░░░░░░░░   45.71 %
 Python       1 hr 59 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.38 %
