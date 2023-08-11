@@ -9,13 +9,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 August 2023 - To: 09 August 2023
+From: 03 August 2023 - To: 10 August 2023
 
-INI          2 hrs 9 mins    ██████████████████░░░░░░░   71.94 %
-C++          26 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.48 %
-Other        11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
-Python       6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
-Makefile     5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+Python   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
