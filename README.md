@@ -9,7 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 August 2023 - To: 12 August 2023
+From: 06 August 2023 - To: 13 August 2023
 
 Python     52 mins         ████████████████░░░░░░░░░   64.53 %
 Makefile   12 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.23 %
