@@ -9,7 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 September 2023 - To: 19 September 2023
+From: 13 September 2023 - To: 20 September 2023
 
 C              2 hrs 5 mins    ███████████░░░░░░░░░░░░░░   44.20 %
 Makefile       39 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.94 %
