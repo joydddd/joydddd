@@ -9,13 +9,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 September 2023 - To: 27 September 2023
+From: 21 September 2023 - To: 28 September 2023
 
-TeX         4 hrs 57 mins   ████████████▓░░░░░░░░░░░░   50.41 %
-C           2 hrs 46 mins   ███████░░░░░░░░░░░░░░░░░░   28.15 %
-Python      45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
-Makefile    30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
-Bash        13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+TeX          4 hrs 57 mins   ███████████░░░░░░░░░░░░░░   44.09 %
+C            3 hrs 23 mins   ███████▓░░░░░░░░░░░░░░░░░   30.22 %
+Python       46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
+Makefile     40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
+Other        24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
 ```
 
 <!--END_SECTION:waka-->
