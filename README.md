@@ -9,7 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2023 - To: 07 October 2023
+From: 01 October 2023 - To: 08 October 2023
 
 C++              6 hrs 39 mins   ███████████▒░░░░░░░░░░░░░   45.52 %
 Python           2 hrs 13 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.26 %
