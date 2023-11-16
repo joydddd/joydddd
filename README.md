@@ -9,13 +9,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 November 2023 - To: 13 November 2023
+From: 07 November 2023 - To: 14 November 2023
 
-Python       6 hrs 9 mins    ████████▓░░░░░░░░░░░░░░░░   34.85 %
-C++          5 hrs 5 mins    ███████▒░░░░░░░░░░░░░░░░░   28.77 %
-Other        4 hrs 16 mins   ██████░░░░░░░░░░░░░░░░░░░   24.17 %
-Makefile     51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
-INI          50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
+Python       5 hrs 48 mins   ████████▓░░░░░░░░░░░░░░░░   35.29 %
+C++          4 hrs 13 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.68 %
+Other        3 hrs 10 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.29 %
+INI          1 hr 46 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 %
+Makefile     49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
 ```
 
 <!--END_SECTION:waka-->
