@@ -9,9 +9,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 December 2023 - To: 13 December 2023
+From: 07 December 2023 - To: 14 December 2023
 
-TeX   3 mins          █████████████████████████   100.00 %
+Markdown   52 mins         ██████████▒░░░░░░░░░░░░░░   40.69 %
+HTML       49 mins         █████████▓░░░░░░░░░░░░░░░   38.44 %
+CSS        15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 %
+TeX        6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
+TOML       4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
 ```
 
 <!--END_SECTION:waka-->
