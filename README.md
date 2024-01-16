@@ -9,7 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 January 2024 - To: 14 January 2024
+From: 08 January 2024 - To: 15 January 2024
 
 Other        2 hrs 38 mins   ██████████████░░░░░░░░░░░   55.86 %
 C            55 mins         █████░░░░░░░░░░░░░░░░░░░░   19.46 %
