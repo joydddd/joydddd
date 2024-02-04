@@ -9,11 +9,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 January 2024 - To: 02 February 2024
+From: 27 January 2024 - To: 03 February 2024
 
-TeX     35 mins         ████████████████████▒░░░░   81.42 %
-C       6 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.16 %
-Other   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+C   4 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
