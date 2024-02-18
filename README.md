@@ -9,12 +9,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 February 2024 - To: 16 February 2024
+From: 10 February 2024 - To: 17 February 2024
 
-C          2 hrs 19 mins   ███████████████████▓░░░░░   78.17 %
-Other      21 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 %
-Makefile   12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
-Bash       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+C          2 hrs 57 mins   ███████████████████░░░░░░   76.01 %
+Other      38 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.59 %
+Makefile   12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
+Bash       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
 ```
 
 <!--END_SECTION:waka-->
