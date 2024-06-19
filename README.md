@@ -9,10 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 June 2024 - To: 17 June 2024
+From: 11 June 2024 - To: 18 June 2024
 
-Python     2 mins          ███████████████████████▒░   93.85 %
-Makefile   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+C++        7 mins          █████████████▒░░░░░░░░░░░   53.71 %
+Makefile   3 mins          ███████░░░░░░░░░░░░░░░░░░   27.80 %
+Python     2 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.49 %
 ```
 
 <!--END_SECTION:waka-->
