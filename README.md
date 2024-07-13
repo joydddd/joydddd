@@ -9,9 +9,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 July 2024 - To: 11 July 2024
+From: 05 July 2024 - To: 12 July 2024
 
-Markdown   45 mins         █████████████████████████   100.00 %
+Markdown   47 mins         ████████████████████▒░░░░   81.38 %
+TeX        8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.08 %
+Other      1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+Git        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
 ```
 
 <!--END_SECTION:waka-->
