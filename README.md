@@ -9,11 +9,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 July 2024 - To: 19 July 2024
+From: 13 July 2024 - To: 20 July 2024
 
-TeX     15 mins         █████████████████████▒░░░   85.90 %
-Git     1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 %
-Other   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
