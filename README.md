@@ -9,13 +9,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 September 2024 - To: 16 September 2024
+From: 10 September 2024 - To: 17 September 2024
 
-TeX          26 mins         █████████▒░░░░░░░░░░░░░░░   37.18 %
-Text         24 mins         ████████▓░░░░░░░░░░░░░░░░   34.59 %
-Markdown     15 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.29 %
-HTML         4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
-SSH Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+TeX          27 mins         █████████▒░░░░░░░░░░░░░░░   37.15 %
+Text         24 mins         ████████▒░░░░░░░░░░░░░░░░   33.67 %
+Markdown     16 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.43 %
+HTML         4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
+SSH Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
