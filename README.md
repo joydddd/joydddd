@@ -9,12 +9,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 September 2024 - To: 19 September 2024
+From: 13 September 2024 - To: 20 September 2024
 
-Text         24 mins         ██████████████░░░░░░░░░░░   56.66 %
-Markdown     16 mins         █████████▒░░░░░░░░░░░░░░░   37.29 %
-TeX          2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
-SSH Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+TeX   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
