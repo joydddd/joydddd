@@ -9,11 +9,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2024 - To: 07 October 2024
+From: 01 October 2024 - To: 08 October 2024
 
-Python   5 hrs 59 mins   ████████████████████████░   96.64 %
-TeX      12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Python     4 hrs 50 mins   ████████████████████▒░░░░   81.61 %
+TeX        42 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 %
+Other      22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
+Makefile   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
