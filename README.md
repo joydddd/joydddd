@@ -9,12 +9,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 November 2024 - To: 12 November 2024
+From: 06 November 2024 - To: 13 November 2024
 
-Python     1 hr 22 mins    █████████████▒░░░░░░░░░░░   53.05 %
-Markdown   1 hr 8 mins     ███████████░░░░░░░░░░░░░░   44.60 %
-C++        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
-BibTeX     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Python             1 hr 28 mins    █████████░░░░░░░░░░░░░░░░   35.77 %
+Markdown           1 hr 8 mins     ███████░░░░░░░░░░░░░░░░░░   27.94 %
+C                  42 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.24 %
+Cython             34 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.06 %
+C++                12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
 ```
 
 <!--END_SECTION:waka-->
