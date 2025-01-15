@@ -9,9 +9,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 January 2025 - To: 13 January 2025
+From: 07 January 2025 - To: 14 January 2025
 
-TeX   11 mins         █████████████████████████   100.00 %
+TeX          11 mins         ██████████████████████▒░░   89.39 %
+SSH Config   1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 %
 ```
 
 <!--END_SECTION:waka-->
