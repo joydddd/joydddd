@@ -9,9 +9,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 January 2025 - To: 26 January 2025
+From: 20 January 2025 - To: 27 January 2025
 
-No activity tracked
+Python   1 hr 44 mins    ██████████████████████▓░░   90.84 %
+Cuda     9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
+C++      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+C        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
