@@ -9,7 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 February 2025 - To: 04 March 2025
+From: 26 February 2025 - To: 05 March 2025
 
 Cuda         1 hr 54 mins    ████████████████▓░░░░░░░░   66.23 %
 C            16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 %
