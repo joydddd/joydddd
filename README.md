@@ -9,7 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 March 2025 - To: 31 March 2025
+From: 25 March 2025 - To: 01 April 2025
 
 HTML         59 mins         ███████████▒░░░░░░░░░░░░░   45.77 %
 Markdown     48 mins         █████████▒░░░░░░░░░░░░░░░   37.16 %
