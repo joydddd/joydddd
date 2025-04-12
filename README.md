@@ -9,9 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 April 2025 - To: 10 April 2025
+From: 04 April 2025 - To: 11 April 2025
 
-No activity tracked
+Markdown   8 mins          ██████████████░░░░░░░░░░░   56.06 %
+HTML       4 mins          ███████▒░░░░░░░░░░░░░░░░░   28.85 %
+CSS        2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.09 %
 ```
 
 <!--END_SECTION:waka-->
