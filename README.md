@@ -9,13 +9,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 April 2025 - To: 30 April 2025
+From: 24 April 2025 - To: 01 May 2025
 
-Cuda          17 hrs 28 mins  █████████████████████░░░░   83.89 %
-Markdown      1 hr 41 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
-Makefile      39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
-Python        31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
-SSH Config    10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Cuda          13 hrs 28 mins  █████████████████████░░░░   84.42 %
+Markdown      1 hr 22 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 %
+Python        31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+Makefile      18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+SSH Config    7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 ```
 
 <!--END_SECTION:waka-->
