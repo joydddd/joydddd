@@ -9,7 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 April 2025 - To: 07 May 2025
+From: 01 May 2025 - To: 08 May 2025
 
 Cuda         3 hrs 24 mins   █████████████████████▓░░░   87.31 %
 Makefile     11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
