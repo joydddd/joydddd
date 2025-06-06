@@ -9,10 +9,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 May 2025 - To: 04 June 2025
+From: 29 May 2025 - To: 05 June 2025
 
-Markdown   4 hrs 44 mins   ████████████████████████▓   98.28 %
-TeX        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+Markdown   3 hrs 39 mins   ████████████████████████▒   97.79 %
+TeX        4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
 ```
 
 <!--END_SECTION:waka-->
