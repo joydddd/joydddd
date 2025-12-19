@@ -9,9 +9,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 December 2025 - To: 17 December 2025
+From: 11 December 2025 - To: 18 December 2025
 
-No activity tracked
+C          1 hr 5 mins     ██████████████████▓░░░░░░   75.24 %
+Makefile   17 mins         █████░░░░░░░░░░░░░░░░░░░░   20.15 %
+Max        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+Other      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
