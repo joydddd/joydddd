@@ -9,13 +9,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 December 2025 - To: 24 December 2025
+From: 18 December 2025 - To: 25 December 2025
 
-C          1 hr 11 mins    ███████████████████▒░░░░░   76.84 %
-Makefile   17 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.84 %
-Max        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-Other      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
-JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+C   6 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
