@@ -9,9 +9,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 June 2026 - To: 11 June 2026
+From: 05 June 2026 - To: 12 June 2026
 
-No activity tracked
+TeX        22 mins               █████████████████████▓░░░   86.28 %
+JSON       1 min                 █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
+Other      1 min                 █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
+Markdown   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
