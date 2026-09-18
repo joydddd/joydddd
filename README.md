@@ -9,11 +9,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 September 2026 - To: 16 September 2026
+From: 10 September 2026 - To: 17 September 2026
 
-Other        25 mins               ████████████▓░░░░░░░░░░░░   50.80 %
-TeX          21 mins               ██████████▓░░░░░░░░░░░░░░   42.52 %
-SSH Config   3 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
+TeX          54 mins               ████████████████░░░░░░░░░   63.72 %
+Other        25 mins               ███████▒░░░░░░░░░░░░░░░░░   29.81 %
+SSH Config   3 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
+Markdown     2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
 ```
 
 <!--END_SECTION:waka-->
