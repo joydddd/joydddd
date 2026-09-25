@@ -9,10 +9,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 September 2026 - To: 23 September 2026
+From: 17 September 2026 - To: 24 September 2026
 
-SSH Config   0 secs                ████████████████░░░░░░░░░   64.60 %
-Other        0 secs                █████████░░░░░░░░░░░░░░░░   35.40 %
+TeX          22 mins               ████████████████████████▒   96.83 %
+SSH Config   0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
 ```
 
 <!--END_SECTION:waka-->
